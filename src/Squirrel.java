@@ -58,7 +58,6 @@ public class Squirrel {
         inputAndPrintSquirrelMaxNuts(23, new int[]{10, -2, 3, 1, -1, -4, 2, 3, 2, 2, -2, -3, -100, -10, -1, 2, 10, -2, 3, -1, -2});
         inputAndPrintSquirrelMaxNuts(4, new int[]{-2, 2, 4, -6, -2, -1, -2, 1});
         inputAndPrintSquirrelMaxNuts(8, new int[]{10, -1, 2, -2, -7, -7, 2, 1});
-        inputAndPrintSquirrelMaxNuts(8, new int[]{10, -1, 2, -2, -7, -7, 2, 1});
     }
 
     private static void inputAndPrintSquirrelMaxNuts(int answer, int[] array) {
